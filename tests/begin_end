@@ -1,0 +1,8 @@
+while b>10 do
+begin
+    e = 16;
+    while a<10 do
+        if b==10 then c=4;
+    f = 17;
+end;
+a = 12.34;

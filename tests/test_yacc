@@ -1,0 +1,4 @@
+while (a3 + 15) > 0xa do
+ while y < z do
+ y = 12.34 * y / z;
+c = b * c + d;

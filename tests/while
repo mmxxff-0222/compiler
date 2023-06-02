@@ -1,0 +1,4 @@
+while b>10 do
+ if x2 == 07 then
+ while y < z do
+ y = z  ;

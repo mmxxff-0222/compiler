@@ -1,0 +1,8 @@
+while b>10 do
+begin
+    d=15;
+    if a<12 then
+        if b==13 then d=13;
+    e=14;
+end;
+a = 12.34;

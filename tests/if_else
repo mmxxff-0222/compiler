@@ -1,0 +1,7 @@
+if x == 07 then
+    if (y+x) < 10 then
+        y = y * 2
+    else
+        y = y + 4
+else
+    x = a+b*(c+d);
